@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://glocki.github.io/notes-rnjqc0/sitemap.xml
